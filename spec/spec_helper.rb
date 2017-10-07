@@ -16,6 +16,7 @@
 require 'rantly'
 require 'rantly/rspec_extensions'
 require 'rantly/shrinks'
+require 'base64'
 
 RSpec.configure do |config|
   # rspec-expectations config goes here. You can use an alternate
